@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\studio-chen\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|solutionrelative:studio-chen\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\studio-chen\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|solutionrelative:studio-chen\\controllers\\lessonscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\studio-chen\\controllers\\gymnastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|solutionrelative:studio-chen\\controllers\\gymnastscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3236A3-894E-44D3-B75E-B79E01E55706}|HelpClasses\\HelpClasses.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\helpclasses\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3236A3-894E-44D3-B75E-B79E01E55706}|HelpClasses\\HelpClasses.csproj|solutionrelative:helpclasses\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB3236A3-894E-44D3-B75E-B79E01E55706}|HelpClasses\\HelpClasses.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\helpclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3236A3-894E-44D3-B75E-B79E01E55706}|HelpClasses\\HelpClasses.csproj|solutionrelative:helpclasses\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|solutionrelative:entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|solutionrelative:entities\\lesson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\entities\\gymnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|solutionrelative:entities\\gymnast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D563D958-1593-45D8-8704-F792DCFE1C49}|Entities\\Entities.csproj|solutionrelative:entities\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|c:\\users\\user\\desktop\\\u05E9.\u05D1\\net core\\studio-chen\\studio-chen\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EFC2243-6F6F-461A-83A4-FEE62B739563}|Studio-Chen\\Studio-Chen.csproj|solutionrelative:studio-chen\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Studio-Chen\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Studio-Chen\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:22:12.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LessonsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\LessonsController.cs",
+              "RelativeDocumentMoniker": "Studio-Chen\\Controllers\\LessonsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\LessonsController.cs",
+              "RelativeToolTip": "Studio-Chen\\Controllers\\LessonsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:21:38.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GymnastsController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\GymnastsController.cs",
+              "RelativeDocumentMoniker": "Studio-Chen\\Controllers\\GymnastsController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\GymnastsController.cs",
+              "RelativeToolTip": "Studio-Chen\\Controllers\\GymnastsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:20:55.567Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\HelpClasses\\Address.cs",
+              "RelativeDocumentMoniker": "HelpClasses\\Address.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\HelpClasses\\Address.cs",
+              "RelativeToolTip": "HelpClasses\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T23:01:40.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\HelpClasses\\Person.cs",
+              "RelativeDocumentMoniker": "HelpClasses\\Person.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\HelpClasses\\Person.cs",
+              "RelativeToolTip": "HelpClasses\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:56:04.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Course.cs",
+              "RelativeToolTip": "Entities\\Course.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:53:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lesson.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Lesson.cs",
+              "RelativeDocumentMoniker": "Entities\\Lesson.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Lesson.cs",
+              "RelativeToolTip": "Entities\\Lesson.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:52:45.866Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gymnast.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Gymnast.cs",
+              "RelativeDocumentMoniker": "Entities\\Gymnast.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Gymnast.cs",
+              "RelativeToolTip": "Entities\\Gymnast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:52:30.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Teacher.cs",
+              "RelativeDocumentMoniker": "Entities\\Teacher.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Entities\\Teacher.cs",
+              "RelativeToolTip": "Entities\\Teacher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:51:13.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Studio-Chen\\Controllers\\TeachersController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\\u05E9.\u05D1\\net core\\Studio-Chen\\Studio-Chen\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Studio-Chen\\Controllers\\TeachersController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T22:41:55.459Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
