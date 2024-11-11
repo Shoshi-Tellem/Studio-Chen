@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\Studio-Chen\\HelpClasses\\HelpClasses.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\PROJECT\\Studio-Chen\\HelpClasses\\HelpClasses.csproj",
       "projectName": "HelpClasses",
-      "projectPath": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\Studio-Chen\\HelpClasses\\HelpClasses.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\PROJECT\\Studio-Chen\\HelpClasses\\HelpClasses.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\Studio-Chen\\HelpClasses\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\ש.ב\\net core\\PROJECT\\Studio-Chen\\HelpClasses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
